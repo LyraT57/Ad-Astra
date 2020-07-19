@@ -1,6 +1,10 @@
-# Ad-Astra-Per-Aspera
-生命值星际科幻集
+# HPAU(HarryPotterAlternativeUniverseOfScienceFiction)
+Summary:This_is_an_AU_story_about_Harry's_elder_generation
 
-目录
-1。情书
-2。叛徒
+Characters:SiriusBlack,RegulusArcturusBlack,JamesPotter,LilyEvans,SeverusSnape,PetterPettigrew;
+
+Catalogue
+
+Chapter1:LoveLetter
+
+Chapter2:Traitor
