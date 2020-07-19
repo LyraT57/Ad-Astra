@@ -1,7 +1,7 @@
 # HPAU(HarryPotterAlternativeUniverseOfScienceFiction)
 Summary:This_is_an_AU_story_about_Harry's_elder_generation
 
-Characters:SiriusBlack,RegulusArcturusBlack,JamesPotter,LilyEvans,SeverusSnape,PetterPettigrew;
+Characters:SiriusBlack,RegulusArcturusBlack,JamesPotter,LilyEvans,SeverusSnape,PeterPettigrew;
 
 Catalogue
 
