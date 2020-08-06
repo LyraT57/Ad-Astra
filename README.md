@@ -3,7 +3,9 @@ Summary:This_is_an_AU_story_about_Harry's_elder_generation
 
 Characters:SiriusBlack,RegulusArcturusBlack,JamesPotter,LilyEvans,SeverusSnape,PeterPettigrew;
 
-Catalogue
+I advice you to read my story in sequence.
+
+Catalogue 
 
 Chapter1:LoveLetter
 
